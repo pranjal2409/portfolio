@@ -1,0 +1,98 @@
+@media all and (max-width: 768px){
+
+	.bio{
+		height: 430px;
+		width: 360px;
+		margin-top: -20px;
+	}
+	.profile-pic{
+		width: 230px;
+		height: 230px;
+	}
+	.intro{
+		line-height: 1.9em;
+	}
+	.intro h1{
+		font-size: 2em;
+	}
+	.intro h2{
+		font-size: 1.6em;
+	}
+	.intro h3{
+		font-size: 1.3em;
+	}
+
+}
+
+@media all and (max-width: 620px){
+
+	.bio{
+		height: 415px;
+		width: 340px;
+		margin-top: -6%;
+	}
+	.profile-pic{
+		width: 215px;
+		height: 215px;
+	}
+	.intro{
+		line-height: 1.8em;
+	}
+	.intro h1{
+		font-size: 1.9em;
+	}
+	.intro h2{
+		font-size: 1.5em;
+	}
+	.intro h3{
+		font-size: 1.2em;
+	}
+
+}
+
+@media all and (max-width: 480px){
+
+	.bio{
+		height: 100%;
+		width: 100%;
+		margin-top: 0;
+	}
+	.profile-pic{
+		width: 200px;
+		height: 200px;
+	}
+	.intro{
+		line-height: 1.7em;
+	}
+	.intro h1{
+		font-size: 1.8em;
+	}
+	.intro h2{
+		font-size: 1.4em;
+	}
+	.intro h3{
+		font-size: 1.1em;
+	}
+
+}
+
+@media all and (max-width: 360px){
+
+	.profile-pic{
+		width: 170px;
+		height: 170px;
+	}
+	.intro{
+		line-height: 1.6em;
+	}
+	.intro h1{
+		font-size: 1.7em;
+	}
+	.intro h2{
+		font-size: 1.3em;
+	}
+	.intro h3{
+		font-size: 1em;
+	}
+
+}
